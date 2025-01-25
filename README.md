@@ -8,10 +8,13 @@ WFS storage C:\ProgramData\WinTAK\WFS
 
 Map files for Germany with mainly Ortho RGB, IR (DOP), TOPO (DTK) maps
 
+
 Stream Gauge Data as a KML Network Link in ATAK is in Germany not posible without an server for kml translation.
 Solution: Switch to WFS Data for implementation of Tide, Gauge, Pegel for flood preparedness. 
 At the moment the colour stays green the whole time.
 I will change that maybe.
+![grafik](https://github.com/user-attachments/assets/7dc2e5af-279a-4be2-8560-fecbec52c6f1)
+
 
 
 How to get Sea Maps for ATAK in Germany:
