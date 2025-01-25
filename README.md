@@ -18,6 +18,7 @@ I will change that maybe.
 
 #### Solution 2: WMS Stream for gauge display
 use files from: ATAK-Germany-Maps/Imagery/Wasserstand
+![grafik](https://github.com/user-attachments/assets/6c025487-1f0c-4215-b6ab-f4ccc4d47dce)
 
 
 
@@ -28,3 +29,6 @@ Go to: https://wiki.openstreetmap.org/wiki/MBTiles
 use the MBtiles and put them into MAP storage
 #### for Inland ENC (Electronic Navigational Chart) WSV
 Binnenschifffahrt Karten WMS Server verwenden: https://www.govdata.de/suche/daten/wmts-iencs-der-wsv-tilecache-des-adv-wmts-grid-itzbund
+WMS file in Imagery/Standard Imagery
+![grafik](https://github.com/user-attachments/assets/aba872d4-a31c-4c8f-bb32-4a66b80ca6b5)
+
