@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customMapSource>
+  <name>Luftbild Bayern on WMTS BY Geobasisdaten [WMTS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>20</maxZoom>
+  <tileType>image/jpeg</tileType>
+  <url>https://wmtsod1.bayernwolke.de/wmts/by_dop/smerc/{$z}/{$x}/{$y}</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <tileUpdate>false</tileUpdate>
+  <backgroundColor>#000000</backgroundColor>
+  <ignoreErrors>false</ignoreErrors>
+  <serverParts />
+</customMapSource>
