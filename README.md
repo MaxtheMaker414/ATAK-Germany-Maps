@@ -1,7 +1,7 @@
 # ATAK-Germany-Maps
 # WMS MAP Sources and WFS stuff for ATAK CIV
 ## Written for Wintak, can be used with all TAK Versions
-Map storage C:\ProgramData\WinTAK\Imagery
+Map storage C:\ProgramData\WinTAK\Imagery  
 WFS storage C:\ProgramData\WinTAK\WFS
 
 ### Map files for Germany with mainly Ortho RGB, IR (DOP), TOPO (DTK) maps
