@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK10 Farbkombination on WMS LGL-BW ATKIS Digitale Topographische Karte 1 10 000 Kombination [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DTK_10_K?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>RDS.LY_DTK10K_COL</layers>
+  <styles>default</styles>
+  <north>50</north>
+  <east>10.7</east>
+  <south>47.4</south>
+  <west>7.2</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

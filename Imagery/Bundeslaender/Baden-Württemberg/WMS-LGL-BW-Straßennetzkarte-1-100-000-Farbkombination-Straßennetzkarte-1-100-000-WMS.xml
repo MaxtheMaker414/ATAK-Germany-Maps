@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Stra ennetzkarte 1 100 000 on WMS LGL-BW Stra ennetzkarte 1 100 000 Farbkombination [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_SNK_100_K?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>RDS.LY_SNK100K_col</layers>
+  <styles>default</styles>
+  <north>50</north>
+  <east>10.7</east>
+  <south>47.4</south>
+  <west>7.2</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Digitale Orthophotos 20 cm Farbe grenzscharf - Landesgrenze on WMS LGL-BW ATKIS Digitale Orthophotos in Farbe 20 cm Bodenaufl sung [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DOP_20_C?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>IMAGES_DOP_20_RGB</layers>
+  <styles>default</styles>
+  <north>50</north>
+  <east>10.7</east>
+  <south>47.4</south>
+  <west>7.2</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>
