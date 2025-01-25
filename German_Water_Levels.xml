@@ -1,0 +1,28 @@
+<takWfsConfig>
+    <uri><![CDATA[https://www.pegelonline.wsv.de/webservices/gis/aktuell/wfs?REQUEST=GetCapabilities&SERVICE=WFS&version=1.1.0]]></uri>
+    <displayname>German Water Levels</displayname>
+    <isInteractive>true</isInteractive>
+    <layer>
+        <remotename><![CDATA[gk:waterlevels]]></remotename>
+        <displayname><![CDATA[German Water Levels]]></displayname>
+        <feature>
+            <styles>
+                <pointstyle>
+                    <color>FF00FF00</color>
+                </pointstyle>
+                <linestyle>
+                    <strokestyle>
+                        <color>FF00FF00</color>
+                        <width>2</width>
+                    </strokestyle>
+                </linestyle>
+                <polygonstyle>
+                    <strokestyle>
+                        <color>FF00FF00</color>
+                        <width>2</width>
+                    </strokestyle>
+                </polygonstyle>
+            </styles>
+        </feature>
+    </layer>
+</takWfsConfig>
