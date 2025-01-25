@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customMapSource>
+  <name>InlandENC WSV-WMTS</name>
+  <minZoom>0</minZoom>
+  <maxZoom>20</maxZoom>
+  <tileType>image/png</tileType>
+  <url>https://via.bund.de/wsv/ienc/wms?service=WMTS&amp;amp;request=GetTile&amp;amp;version=1.0.0&amp;amp;layer=WmsIENC&amp;amp;style=default&amp;amp;format=image/png&amp;amp;TileMatrixSet=osm_grid&amp;amp;TileMatrix={$z}&amp;amp;TileRow={$y}&amp;amp;TileCol={$x}</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <tileUpdate>false</tileUpdate>
+  <backgroundColor>#000000</backgroundColor>
+  <ignoreErrors>false</ignoreErrors>
+  <serverParts />
+</customMapSource>

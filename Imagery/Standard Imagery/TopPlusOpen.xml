@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Open TopoPlus</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://sgx.geodatenzentrum.de/wms_topplus_open?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>web</layers>
+  <styles>default</styles>
+  <north>85.0511287798066</north>
+  <east>180</east>
+  <south>-85.0511287798066</south>
+  <west>-180</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>
