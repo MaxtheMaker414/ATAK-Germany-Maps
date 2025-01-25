@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK Farbe on WMS NW DTK [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.wms.nrw.de/geobasis/wms_nw_dtk?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>nw_dtk_col</layers>
+  <styles>default</styles>
+  <north>52.60202</north>
+  <east>9.531542</east>
+  <south>50.150604</south>
+  <west>5.724991</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DOP Infrarot on WMS TH DOP [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geoproxy.geoportal-th.de/geoproxy/services/DOP?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>th_dop20cir</layers>
+  <styles>default</styles>
+  <north>51.69106171</north>
+  <east>12.88708407</east>
+  <south>50.14013162</south>
+  <west>9.79864107</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

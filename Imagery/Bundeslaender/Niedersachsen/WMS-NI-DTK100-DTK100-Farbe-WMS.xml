@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK100 Farbe on WMS NI DTK100 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://opendata.lgln.niedersachsen.de/doorman/noauth/dtk100_wms?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>ni_dtk100_farbe</layers>
+  <styles></styles>
+  <north>54.211018</north>
+  <east>12.048935</east>
+  <south>51.218657</south>
+  <west>6.410138</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

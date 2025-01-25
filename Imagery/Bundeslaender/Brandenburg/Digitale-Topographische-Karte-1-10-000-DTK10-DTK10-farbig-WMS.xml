@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK10, farbig on Digitale Topographische Karte 1 10 000 DTK10 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_dtk10?</url>
+  <coordinatesystem>EPSG:4326</coordinatesystem>
+  <layers>0</layers>
+  <styles>gdi_default</styles>
+  <north>52.6877</north>
+  <east>13.7701</east>
+  <south>52.3284</south>
+  <west>13.079</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

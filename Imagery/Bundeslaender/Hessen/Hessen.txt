@@ -1,0 +1,3 @@
+https://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-maps.ows?language=ger&VERSION=1.3.0&REQUEST=GetCapabilities&SERVICE=WMS
+
+https://advmis.geodatenzentrum.de/freitextsuche?q=wms+he&rstart=10&currentSelectorPage=1&f=

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DOP20c BB-BE on WMS BB-BE DOP20c und WebAtlasDE Flex zzgl. Sen2Europe [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://isk.geobasis-bb.de/mapproxy/dop20c_webatlasde_sentinel/service/wms?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>dop20c_bebb</layers>
+  <styles></styles>
+  <north>53.572619943188</north>
+  <east>14.7701928207218</east>
+  <south>51.3063097296073</south>
+  <west>11.2291258088352</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

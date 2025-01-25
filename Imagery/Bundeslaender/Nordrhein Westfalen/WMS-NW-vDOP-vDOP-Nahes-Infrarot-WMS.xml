@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>vDOP Nahes Infrarot on WMS NW vDOP [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.wms.nrw.de/geobasis/wms_nw_vdop?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>nw_vdop_nir</layers>
+  <styles>default</styles>
+  <north>52.799797</north>
+  <east>9.741582</east>
+  <south>50.057798</south>
+  <west>5.593338</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

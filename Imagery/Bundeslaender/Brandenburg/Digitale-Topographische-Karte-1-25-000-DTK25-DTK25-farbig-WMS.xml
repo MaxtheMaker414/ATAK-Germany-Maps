@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK25, farbig on Digitale Topographische Karte 1 25 000 DTK25 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://gdi.berlin.de/services/wms/dtk25?SERVICE=WMS&amp;</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>dtk25_col</layers>
+  <styles>dtk25_col</styles>
+  <north>52.7097118354196</north>
+  <east>13.8420661351896</east>
+  <south>52.2874408170837</south>
+  <west>12.9800672313227</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

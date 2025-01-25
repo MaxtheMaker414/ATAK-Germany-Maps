@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DOP20 cir on WMS_HE_Luftbilder [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-images.ows?language=ger&amp;</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>he_dop20_cir</layers>
+  <styles>default</styles>
+  <north>51.667</north>
+  <east>10.2723</east>
+  <south>49.3761</south>
+  <west>7.69883</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

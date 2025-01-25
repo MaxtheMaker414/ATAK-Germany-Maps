@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DOP Farbe on WMS TH DOP [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geoproxy.geoportal-th.de/geoproxy/services/DOP?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>th_dop</layers>
+  <styles>default</styles>
+  <north>51.66367013</north>
+  <east>12.71188404</east>
+  <south>50.15442687</south>
+  <west>9.85484026</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

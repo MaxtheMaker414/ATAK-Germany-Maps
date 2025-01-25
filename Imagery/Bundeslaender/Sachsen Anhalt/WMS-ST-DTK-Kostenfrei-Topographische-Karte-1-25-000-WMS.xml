@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Topographische Karte 1 25.000 on WMS ST DTK Kostenfrei [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geodatenportal.sachsen-anhalt.de/wss/service/ST_LVermGeo_DTK_WMS_OpenData/guest?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>lsa_lvermgeo_dtk25_col_1</layers>
+  <styles>default</styles>
+  <north>53.1322</north>
+  <east>13.4661</east>
+  <south>40.9101</south>
+  <west>-34.8402</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

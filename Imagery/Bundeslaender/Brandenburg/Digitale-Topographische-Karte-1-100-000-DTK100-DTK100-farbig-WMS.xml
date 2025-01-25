@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK100, farbig on Digitale Topographische Karte 1 100 000 DTK100 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://gdi.berlin.de/services/wms/dtk100?SERVICE=WMS&amp;</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>dtk100_col</layers>
+  <styles>dtk100_col</styles>
+  <north>52.8173314922015</north>
+  <east>14.0161256589729</east>
+  <south>51.9797743362979</south>
+  <west>12.6224644991684</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>DTK100 Kombination farbig on WMS TH DTK color [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geoproxy.geoportal-th.de/geoproxy/services/geobasis/DTK?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>th_dtk100</layers>
+  <styles>default</styles>
+  <north>51.98956351</north>
+  <east>12.91264231</east>
+  <south>49.90679087</south>
+  <west>9.48802807</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

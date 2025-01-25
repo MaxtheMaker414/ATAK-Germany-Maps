@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Digitale Orthophotos on WMS Geobasisdaten MapApps [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geodatenportal.sachsen-anhalt.de/wss/service/ST_LVermGeo_DOP_WMS_OpenData/guest?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>lsa_lvermgeo_dop20_2</layers>
+  <styles>default</styles>
+  <north>53.0769</north>
+  <east>13.3233</east>
+  <south>50.8927</south>
+  <west>10.5092</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Digitale Topographische Karte 1 10 000 Farbe on WMS BB-BE DTK10 Farbe Cache [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://isk.geobasis-bb.de/mapproxy/dtk10farbe/service/wms?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>bb_dtk10_farbe</layers>
+  <styles>default</styles>
+  <north>53.6800788753439</north>
+  <east>15.3936355243923</east>
+  <south>51.2121007592907</south>
+  <west>11.0686908823831</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

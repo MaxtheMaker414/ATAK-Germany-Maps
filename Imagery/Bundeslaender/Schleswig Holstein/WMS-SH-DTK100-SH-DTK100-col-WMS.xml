@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>SH DTK100 col on WMS SH DTK100 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://service.gdi-sh.de/WMS_SH_DTK100_OpenGBD?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>sh_dtk100_col</layers>
+  <styles>default</styles>
+  <north>56.8478734515381</north>
+  <east>20.4488912945257</east>
+  <south>45.2375427360256</south>
+  <west>0.105946742405689</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

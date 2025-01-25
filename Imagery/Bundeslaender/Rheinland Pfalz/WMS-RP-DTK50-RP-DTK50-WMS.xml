@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>RP DTK50 on WMS RP DTK50 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://geo4.service24.rlp.de/wms/rp_dtk50.fcgi?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>rp_dtk50</layers>
+  <styles>default</styles>
+  <north>51.0191</north>
+  <east>8.686868</east>
+  <south>48.751167</south>
+  <west>5.908602</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

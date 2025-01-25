@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>Luftbild RP CIR on Luftbild RP CIR [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://www.geoportal.rlp.de/owsproxy/00000000000000000000000000000000/4494b0937a7fcfd67a4f43ae241f7ccd?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>rp_dopcir</layers>
+  <styles></styles>
+  <north>51.000893</north>
+  <east>8.617703</east>
+  <south>48.897996</south>
+  <west>6.037773</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

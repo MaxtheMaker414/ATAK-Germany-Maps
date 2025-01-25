@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>SN DTK10 Produkt Color on AdV-WMS-DE-SN-DTK-Produkt-Color [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://geodienste.sachsen.de/wms_geosn_dtk-p-color/guest?</url>
+  <coordinatesystem>EPSG:3857</coordinatesystem>
+  <layers>sn_dtk10_p_color</layers>
+  <styles>default</styles>
+  <north>51.738913</north>
+  <east>15.086895</east>
+  <south>50.131133</south>
+  <west>11.729846</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>RP DTK100 on WMS RP DTK100 [WMS]</name>
+  <minZoom>0</minZoom>
+  <maxZoom>23</maxZoom>
+  <tileType>png</tileType>
+  <url>https://geo4.service24.rlp.de/wms-ref/rp_dtk100_500.fcgi?language=ger&amp;</url>
+  <coordinatesystem>EPSG:4326</coordinatesystem>
+  <layers>rp_dtk100</layers>
+  <styles>default</styles>
+  <north>51.235</north>
+  <east>8.72781</east>
+  <south>48.7321</south>
+  <west>5.85132</west>
+  <backgroundColor>#000000</backgroundColor>
+  <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>
