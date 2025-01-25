@@ -13,6 +13,7 @@ Dieses Repository enthält Informationen und Ressourcen für die Nutzung von WMS
 Karten für Deutschland mit den Schwerpunkten:
 - **Orthofotos (RGB, IR - DOP)**
 - **Topographische Karten (DTK)**
+- [XML files](https://github.com/MaxtheMaker414/ATAK-Germany-Maps/tree/d6de0fd0e9ce697ef930f92f9688798dc5cfe02d/Imagery)
 
 <img src="https://github.com/user-attachments/assets/67d0a789-3cee-47ae-b1bf-e411010a00e3" width="700" />
 
