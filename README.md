@@ -1,8 +1,6 @@
 # ATAK-Germany-Maps
 # WMS MAP Sources and WFS stuff for ATAK CIV
-
 ## Written for Wintak, can be used with all TAK Versions
-
 Map storage C:\ProgramData\WinTAK\Imagery
 WFS storage C:\ProgramData\WinTAK\WFS
 
@@ -13,14 +11,12 @@ WFS storage C:\ProgramData\WinTAK\WFS
 
 
 #### Solution 1: Switch to WFS Data for implementation of Tide, Gauge, Pegel for flood preparedness. 
-
 At the moment the colour stays green the whole time.
 I will change that maybe.
 ![grafik](https://github.com/user-attachments/assets/7dc2e5af-279a-4be2-8560-fecbec52c6f1)
 
 
 #### Solution 2: WMS Stream for gauge display
-
 use files from: ATAK-Germany-Maps/Imagery/Wasserstand
 
 
@@ -30,6 +26,5 @@ use files from: ATAK-Germany-Maps/Imagery/Wasserstand
 #### for sea maps
 Go to: https://wiki.openstreetmap.org/wiki/MBTiles
 use the MBtiles and put them into MAP storage
-
 #### for Inland ENC (Electronic Navigational Chart) WSV
 Binnenschifffahrt Karten WMS Server verwenden: https://www.govdata.de/suche/daten/wmts-iencs-der-wsv-tilecache-des-adv-wmts-grid-itzbund
