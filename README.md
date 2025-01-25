@@ -22,11 +22,14 @@ use files from: ATAK-Germany-Maps/Imagery/Wasserstand
 
 
 
+
+
 ### How to get Sea Maps for ATAK in Germany:
 
 #### for sea maps
 Go to: https://wiki.openstreetmap.org/wiki/MBTiles
 use the MBtiles and put them into MAP storage
+![grafik](https://github.com/user-attachments/assets/76f33f33-1797-476a-8fe9-9a11334b2118)
 #### for Inland ENC (Electronic Navigational Chart) WSV
 Binnenschifffahrt Karten WMS Server verwenden: https://www.govdata.de/suche/daten/wmts-iencs-der-wsv-tilecache-des-adv-wmts-grid-itzbund
 WMS file in Imagery/Standard Imagery
