@@ -22,7 +22,7 @@ Karten für Deutschland mit den Schwerpunkten:
 
 **BEI Darstellungsfehlern**
 Ändere das Koordinatensystem von 3857 auf 4326
-<coordinatesystem>EPSG:4326</coordinatesystem>
+"<coordinatesystem>EPSG:4326</coordinatesystem>"
 
 ## Stream Gauge Data in ATAK (Pegelstände)
 
