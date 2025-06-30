@@ -17,7 +17,9 @@ Karten für Deutschland mit den Schwerpunkten:
 
 <img src="https://github.com/user-attachments/assets/67d0a789-3cee-47ae-b1bf-e411010a00e3" width="700" />
 
-
+### BEI Darstellungsfehlern
+Ändere das Koordinatensystem von 3857 auf 4326
+<coordinatesystem>EPSG:4326</coordinatesystem>
 ---
 
 ## Stream Gauge Data in ATAK (Pegelstände)
