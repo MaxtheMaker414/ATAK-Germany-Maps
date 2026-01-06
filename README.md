@@ -45,7 +45,7 @@ Dieses Repository enthält Informationen und Ressourcen für die Nutzung von WMS
 - **WFS-Speicher:** `C:\ProgramData\WinTAK\WFS`
 
 ### Enthaltene Karten
-Karten für Deutschland mit den Schwerpunkten:
+Karten für Deutschland, sortiert nach Bundesländern, mit den Schwerpunkten:
 - **Orthofotos (RGB, IR - DOP)**
 - **Topographische Karten (DTK)**
 - [Weiterleitung zu XML files](https://github.com/MaxtheMaker414/ATAK-Germany-Maps/tree/d6de0fd0e9ce697ef930f92f9688798dc5cfe02d/Imagery)
